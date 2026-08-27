@@ -20,8 +20,8 @@ I specialize in taking voice AI from prototype to production — ASR/TTS pipelin
 - Exploring **Forward Deployed Engineer** roles where I can sit at the intersection of AI, engineering, and enterprise clients
 
 ### 📫 Reach me
-- Portfolio: [_add your hosted portfolio link here_](https://bhavikatahiliani.github.io/)
-- LinkedIn: [_add your LinkedIn link here_](https://www.linkedin.com/in/bhavika-tahiliani-b090b81b5/)
+- Portfolio: [_Bhavika Tahiliani_](https://bhavikatahiliani.github.io/)
+- LinkedIn: [ LinkedIn_](https://www.linkedin.com/in/bhavika-tahiliani-b090b81b5/)
 
 ---
 <!--
